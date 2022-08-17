@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* body{
+    background-image: url(food1.jpg);
+    
+} */
+.header{
+    height: 150px;
+    /* background-color: crimson; */
+}
+.header-top{
+    background-color:rgb(255, 32, 125);
+    height: 50px;
+    margin: 0 auto;
+    padding: 20px;
+    
+ }
+ .header-top-left a{
+    color: white;
+  
+    padding: 5px;
+    
+    
+ }
+ .header-bottom a{
+    background-color: white;
+    float:right;
+    margin-right:3%;
+ }
+ .header-top-right {
+    /* margin-right: 10%; */
+    
+    float: right;
+}
+ .header-top-right a { color: white;
+text-decoration: none;
+font-size: large;
+ }
